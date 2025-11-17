@@ -1,0 +1,1 @@
+Drug column is the target column and others are features. This dataset is used for decision tree or random forest or Adaboost algorithm. 

@@ -1,0 +1,8 @@
+If the data is already normalized, do not normalize. In most cases, normalization is required. You can apply any normalization technique. Split the dataset into train and test in 80:20 ratio. For classification task implement evaluation metrics of macro F1 scores and for regression tasks implement the evaluation metrics of MSE (mean squared error). You can implement any one of the below two questions. 
+
+Implement the Naive Bayes’ algorithm for the given dataset.
+
+(or)
+
+Implement the linear regression algorithm with NAG gradient descent.
+

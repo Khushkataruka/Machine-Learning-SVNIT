@@ -1,0 +1,1 @@
+Rented Bike Count is the target column and the rest are features. It is to be used for regression tasks.

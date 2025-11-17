@@ -1,0 +1,7 @@
+If the data is already normalized, do not normalize. In most cases, normalization is required. You can apply any normalization technique. Split the dataset into train and test in 80:20 ratio. For classification task implement evaluation metrics of macro F1 scores and for regression tasks implement the evaluation metrics of MSE (mean squared error). You can implement any one of the below two questions. 
+
+Implement K-nearest neighbor classification taking for K= 3, 5, and 7 from scratch. Show the comparison for different values of K.
+
+(or)
+
+Use a linear regression algorithm for the classification task on the given dataset.
